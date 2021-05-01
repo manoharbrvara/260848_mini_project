@@ -1,6 +1,7 @@
 # Analyse Student Marks.
 
 [![Pylint](https://github.com/manoharbrvara/260848_mini_project/actions/workflows/pylint.yml/badge.svg)](https://github.com/manoharbrvara/260848_mini_project/actions/workflows/pylint.yml)
+[![Contribution Check - Git Inspector](https://github.com/manoharbrvara/260848_mini_project/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/manoharbrvara/Stepin_mini_project_LTTS/actions/workflows/gitinspector.yml)
 
 ### Project Idea 
 
